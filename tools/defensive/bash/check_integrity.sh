@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# ==========================================
-#  Secwexen - File Integrity Checker (Linux)
-#  Compares current file hashes with a stored
-#  baseline to detect tampering or corruption.
-# ==========================================
-
 TARGET_DIR="/opt/secwexen"
 HASH_DB="/var/secwexen/hash_db.txt"
 LOG_FILE="/var/log/secwexen_integrity.log"
