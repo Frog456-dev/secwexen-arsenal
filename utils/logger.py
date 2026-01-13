@@ -1,7 +1,3 @@
-"""
-Simple logging utility for consistent output formatting.
-"""
-
 from datetime import datetime
 
 
