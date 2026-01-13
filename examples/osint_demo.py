@@ -1,8 +1,3 @@
-"""
-OSINT Demo Script
-This example demonstrates how to use the OSINT tools inside the project.
-"""
-
 from tools.osint.python.subdomain_finder import find_subdomains
 from tools.osint.python.email_harvester import harvest_emails
 from tools.osint.python.username_lookup import lookup_username
