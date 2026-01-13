@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# ==========================================
-#  Secwexen - Log Monitoring Script (Linux)
-#  Monitors system logs in real-time and
-#  alerts on suspicious or critical events.
-# ==========================================
-
 LOG_FILE="/var/log/syslog"
 ALERT_LOG="/var/log/secwexen_log_monitor.log"
 
