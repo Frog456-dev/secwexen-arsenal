@@ -1,0 +1,29 @@
+# HTTP & API
+requests
+aiohttp
+
+# CLI & Output
+rich
+colorama
+typer
+
+# Environment & Config
+python-dotenv
+pydantic
+
+# Parsing & Data Processing
+beautifulsoup4
+lxml
+pandas
+
+# Security & Crypto
+cryptography
+
+# OSINT & Networking
+dnspython
+python-whois
+shodan
+
+# Concurrency & Performance
+tqdm
+asyncio
