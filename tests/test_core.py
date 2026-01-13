@@ -1,6 +1,5 @@
 import pytest
 
-
 def test_tools_directory_exists():
     """Check if the tools package can be imported."""
     try:
