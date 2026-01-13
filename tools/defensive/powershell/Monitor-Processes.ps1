@@ -11,7 +11,7 @@
     Script: Monitor-Processes.ps1
 #>
 
-$LogFile = "C:\<computer-name>\logs\process_monitor.log"
+$LogFile = "C:\computer-name\logs\process_monitor.log"
 $SuspiciousNames = @("mimikatz", "meterpreter", "cobalt", "beacon", "powersploit", "keylogger")
 
 # Ensure log directory exists
