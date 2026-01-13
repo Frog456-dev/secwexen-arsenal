@@ -1,8 +1,3 @@
-"""
-Offensive Demo Script
-Demonstrates how to use offensive tools in the Secwexen framework.
-"""
-
 from utils import log_info
 from tools.offensive.python.port_scanner.scanner import scan_ports
 from tools.offensive.python.web_fuzzer import fuzz_url
