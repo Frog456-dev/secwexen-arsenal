@@ -93,5 +93,5 @@ Some files are placeholders and will be filled soon.
 ## Author  
 
 **secwexen**  
-Cybersecurity Researcher & Ethical Hacker Expert   
+Cybersecurity & Ethical Hacker Expert   
 Focused on offensive security, automation, and secure software development.
