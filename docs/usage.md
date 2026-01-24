@@ -1,6 +1,6 @@
 # Usage Guide
 
-This guide explains how to use the tools included in the Secwexen Toolkit.
+This guide explains how to use the tools included in the Secwexen Arsenal.
 
 ---
 
