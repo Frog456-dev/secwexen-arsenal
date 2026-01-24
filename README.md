@@ -1,15 +1,15 @@
-# secwexen-toolkit  
+# secwexen-arsenal  
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-toolkit/build.yml?label=Build)
-![Lint](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-toolkit/lint.yml?label=Lint)
-![Python Lint](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-toolkit/pylint.yml?label=PyLint)
-![CodeQL](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-toolkit/codeql.yml?label=CodeQL)
-![Release](https://img.shields.io/github/v/release/secwexen/secwexen-toolkit)
-![License](https://img.shields.io/github/license/secwexen/secwexen-toolkit)
-![Repo Size](https://img.shields.io/github/repo-size/secwexen/secwexen-toolkit)
-![Last Commit](https://img.shields.io/github/last-commit/secwexen/secwexen-toolkit)
-![Python Versions](https://img.shields.io/pypi/pyversions/secwexen-toolkit)
-![Coverage](https://img.shields.io/codecov/c/github/secwexen/secwexen-toolkit)
+![Build Status](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-arsenal/build.yml?label=Build)
+![Lint](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-arsenal/lint.yml?label=Lint)
+![Python Lint](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-arsenal/pylint.yml?label=PyLint)
+![CodeQL](https://img.shields.io/github/actions/workflow/status/secwexen/secwexen-arsenal/codeql.yml?label=CodeQL)
+![Release](https://img.shields.io/github/v/release/secwexen/secwexen-arsenal)
+![License](https://img.shields.io/github/license/secwexen/secwexen-arsenal)
+![Repo Size](https://img.shields.io/github/repo-size/secwexen/secwexen-arsenal)
+![Last Commit](https://img.shields.io/github/last-commit/secwexen/secwexen-arsenal)
+![Python Versions](https://img.shields.io/pypi/pyversions/secwexen-arsenal)
+![Coverage](https://img.shields.io/codecov/c/github/secwexen/secwexen-arsenal)
 
 **A curated collection of offensive, defensive, and automation tools developed for cybersecurity research, penetration testing, and threat analysis.**
 
